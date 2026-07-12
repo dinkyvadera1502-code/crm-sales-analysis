@@ -132,7 +132,7 @@ The following screenshots highlight some of the SQL analyses performed during th
 #### 1. Lead Conversion Rate
 This query calculates the total number of leads, converted leads, and the overall lead conversion rate.
 
-![Lead Conversion Rate](Images/lead_conversion_rate.)
+![Lead Conversion Rate](Images/lead_conversion_rate.png)
 
 ---
 
