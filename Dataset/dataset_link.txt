@@ -1,0 +1,13 @@
+CRM Dataset
+
+The dataset used in this project contains four tables:
+
+- Lead
+- Opportunity
+- Account
+- Users
+
+The SQL queries can be executed on any CRM dataset with a similar schema.
+
+Note:
+The original dataset is not included in this repository.
