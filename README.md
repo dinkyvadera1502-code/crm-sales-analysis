@@ -125,6 +125,44 @@ Users
 - CRM data quality checks highlighted duplicate companies and missing email records.
 
 ##
+### 📊 Sample Analysis & Query Results
+
+The following screenshots highlight some of the SQL analyses performed during this project.
+
+#### 1. Lead Conversion Rate
+This query calculates the total number of leads, converted leads, and the overall lead conversion rate.
+
+![Lead Conversion Rate](Images/lead_conversion_rate.)
+
+---
+
+#### 2. Pipeline Value by Opportunity Stage
+This analysis identifies which sales stages contribute the highest potential revenue in the sales pipeline.
+
+![Pipeline by Stage](Images/pipeline_by_stage.png)
+
+---
+
+#### 3. Sales Representative Performance
+Sales representatives are ranked based on the total value of opportunities they own using SQL aggregate and window functions.
+
+![Sales Performance](Images/sales_ranking.png)
+
+---
+
+#### 4. Revenue Forecast
+Forecasted revenue is calculated by weighting each opportunity amount by its probability of closing.
+
+![Revenue Forecast](Images/revenue_forecast.png)
+
+---
+
+#### 5. Top Revenue Generating Accounts
+This analysis identifies customer accounts contributing the highest revenue.
+
+![Top Accounts](Images/top_accounts.png)
+
+##
 ### Technologies
 
 - SQL Server Management Studio (SSMS)
