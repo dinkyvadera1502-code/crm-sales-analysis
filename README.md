@@ -1,13 +1,14 @@
 # CRM Sales Analytics using SQL Server
 
-### Project Overview
-This project demonstrates how SQL can be used to analyze CRM sales data and generate actionable business insights.
+This project was created as part of my Business Analytics portfolio to demonstrate SQL skills by solving real-world CRM sales analysis problems.
+##
+### Business Objective
 
-Using SQL Server, I explored lead generation, opportunity management, sales pipeline performance, salesperson productivity, customer accounts, and CRM data quality. The analysis focuses on solving common business questions that support sales operations and decision-making.
+The objective of this project is to analyze CRM sales data using SQL Server and transform raw sales data into actionable business insights. The analysis focuses on lead generation, opportunity management, sales performance, pipeline health, revenue forecasting, and CRM data quality to support data-driven business decisions.
 
-The project demonstrates practical SQL skills by answering real business questions related to lead generation, sales performance, customer accounts, and revenue forecasting.
 ##
 ### Business Problem
+
 Sales teams generate large volumes of CRM data every day, but raw data alone does not provide meaningful business insights.
 
 The objective of this project is to use SQL to transform CRM data into actionable information that helps answer questions such as:
@@ -18,8 +19,10 @@ The objective of this project is to use SQL to transform CRM data into actionabl
 - Which opportunity stages contain the highest value?
 - Which customer accounts generate the most revenue?
 - How can data quality issues affect reporting?
+
 ##
 ### Dataset
+
 The dataset consists of four related CRM tables representing leads, opportunities, customer accounts, and sales representatives.
 
 | Table       | Description                               |
@@ -28,11 +31,9 @@ The dataset consists of four related CRM tables representing leads, opportunitie
 | Opportunity | Sales opportunities and pipeline data     |
 | Account     | Customer account details                  |
 | Users       | Sales representative information          |
-##
-### Database Schema
-Relationships
 
-## Database Relationships
+##
+### Database Relationships
 
 ```
 Users
@@ -45,8 +46,8 @@ Users
 ```
              
 ##
-
 ### Skills Demonstrated
+
 #### SQL
 - SELECT
 - WHERE
@@ -65,8 +66,10 @@ Users
 - Pipeline Analysis
 - Revenue Forecasting
 - Data Quality Analysis
+
 ##
 ### Business Questions Answered
+
 #### Lead Analysis
 - Total Leads
 - Lead Sources
@@ -99,8 +102,10 @@ Users
 #### Data Quality
 - Missing Email Addresses
 - Duplicate Companies
+
 ##
 ### SQL Concepts Used
+
 - Data Aggregation
 - Filtering and Sorting
 - Table Joins
@@ -108,18 +113,23 @@ Users
 - Date Functions
 - Conditional Logic
 - Data Type Conversion
+
 ##
 ### Key Business Insights
+
 - Lead conversion analysis helped evaluate sales effectiveness.
 - Sales pipeline analysis identified the opportunity stages contributing the highest potential revenue.
 - Revenue forecasting was performed using opportunity probability.
 - Sales representatives were ranked based on total pipeline value using SQL window functions.
 - Customer account analysis identified the highest revenue-generating clients.
 - CRM data quality checks highlighted duplicate companies and missing email records.
+
 ##
 ### Technologies
+
 - SQL Server Management Studio (SSMS)
 - Microsoft SQL Server
+
 ##
 ## About Me
 
